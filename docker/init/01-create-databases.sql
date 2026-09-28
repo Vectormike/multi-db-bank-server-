@@ -1,0 +1,3 @@
+CREATE DATABASE checking;
+CREATE DATABASE savings;
+CREATE DATABASE ledger;
